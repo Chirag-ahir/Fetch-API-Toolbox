@@ -1,0 +1,5 @@
+__
+
+hi i am chirag. This is a basic example of Fetch API. This data is coming from online JSON Placeholder website using POST method.
+
+__
